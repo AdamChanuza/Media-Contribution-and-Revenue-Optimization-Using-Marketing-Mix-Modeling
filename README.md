@@ -89,5 +89,5 @@ python scripts/export_notebook_to_html.py
 
 ## Author
 
-Author: Adam Chanuza 
+Adam Chanuza 
 
