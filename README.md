@@ -30,46 +30,6 @@ The Robyn demo dataset does not provide a full business data dictionary with exa
 - Channel contribution analysis
 - Channel efficiency proxy analysis
 
-## Repository Structure
-
-```text
-marketing-mix-modeling/
-|-- README.md
-|-- requirements.txt
-|-- .gitignore
-|-- NOTEBOOK_CLEANUP_REPORT.md
-|-- data/
-|   |-- raw/
-|   |   `-- dt_simulated_weekly.RData
-|   `-- processed/
-|       `-- robyn_mmm_weekly.csv
-|-- notebooks/
-|   `-- Media Contribution and Revenue Optimization Using Marketing Mix Modeling.ipynb
-|-- reports/
-|   `-- Media_Contribution_and_Revenue_Optimization_Using_MMM.html
-|-- scripts/
-|   `-- export_notebook_to_html.py
-|-- src/
-|   |-- transformations.py
-|   |-- model_selection.py
-|   |-- evaluation.py
-|   `-- plotting.py
-`-- outputs/
-    |-- figures/
-    `-- tables/
-```
-
-## HTML Report
-
-A polished HTML export of the final notebook is available at:
-
-`reports/Media_Contribution_and_Revenue_Optimization_Using_MMM.html`
-
-The HTML report includes a clickable table of contents, embedded figures and outputs, and collapsible code cells. To regenerate it after rerunning the notebook:
-
-```bash
-python scripts/export_notebook_to_html.py
-```
 
 ## Key Results
 
