@@ -129,5 +129,5 @@ python scripts/export_notebook_to_html.py
 
 ## Author
 
-Author: [Your Name]  
-Contact: [LinkedIn / GitHub]
+Author: Adam Chanuza 
+
